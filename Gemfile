@@ -6,3 +6,4 @@ group :development do
 gem "pry"
 end
 gem 'octokit', '~> 2.0'
+gem "awesome_pint", git: 'git://github.com/awesome-print/awesome_print.git'
