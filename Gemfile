@@ -6,3 +6,4 @@ gem "sinatra"
 group :development do
   gem "pry"
 end
+gem 'nokogiri', :git => 'login@example.com:some-user-account/some-private-gem.git'
